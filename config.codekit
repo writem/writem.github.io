@@ -490,6 +490,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/images\/me.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25706,
+		"inputAbbreviatedPath": "\/images\/me.jpg",
+		"outputAbbreviatedPath": "\/images\/me.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/pic01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
